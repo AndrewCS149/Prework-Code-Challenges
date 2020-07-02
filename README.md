@@ -3,7 +3,16 @@ This repository contains 4 coding challenges.
 ---
 
 # 1: Array Max Result 
+Given an array and target number, return the sum of the target number based on the occurances of that 
+number in the array.
 
+Example:
+
+input - [6, 4, 4, 1, 3], 4
+output - 8
+
+The 5 numbers in the array are created by user input. The user should be asked to enter 5 numbers
+between 1-10.
 
 
 # 2: Leap Year Calculator

@@ -6,6 +6,9 @@ namespace challenge
     {
         static void Main(string[] args)
         {
+            // Challenge 1 tests
+            //Console.WriteLine(arrMaxResult());
+
             // Challenge 2 tests
             //Console.WriteLine(isLeapYear(1997));
             //Console.WriteLine(isLeapYear(1996));
@@ -22,6 +25,30 @@ namespace challenge
             // challenge 4 tests
             //int[,] nums = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
             //Console.WriteLine(sumOfArrays(nums));            
+        }
+
+        // challenge 1: Array Max Result
+        public static int arrMaxResult()
+        {
+            int[] nums = new int[5];
+
+            // get user input to build array of 5 integers
+            for (int i = 0; i < nums.Length; i++)
+            {
+                Console.Write("Please enter an integer between 1 and 10: ");
+                nums[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            Console.Write("Please choose one of the numbers you entered: ");
+            int target = Convert.ToInt32(Console.ReadLine());
+
+            int sum = 0;
+            foreach (int num in nums)
+            {
+                if (num == target)
+                    sum += num;
+            }
+            return sum;
         }
 
         // challenge 2
