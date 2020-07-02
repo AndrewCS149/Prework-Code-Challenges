@@ -18,4 +18,11 @@ On the Gregorian calendar, a leap year occurs:
 
 Do not worry about edge cases.
 
+# 3: Perfect Sequence
 
+Given an array, return 'Yes' if the sequence is 'perfect'. Otherwise, return 'No'. 
+
+A perfect sequence is:
+
+* Non negative numbers
+* The product and sum of all numbers are equal
