@@ -1,0 +1,13 @@
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\bin\Debug\netcoreapp3.1\challenge.exe
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\bin\Debug\netcoreapp3.1\challenge.deps.json
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\bin\Debug\netcoreapp3.1\challenge.runtimeconfig.json
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\bin\Debug\netcoreapp3.1\challenge.runtimeconfig.dev.json
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\bin\Debug\netcoreapp3.1\challenge.dll
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\bin\Debug\netcoreapp3.1\challenge.pdb
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\obj\Debug\netcoreapp3.1\challenge.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\obj\Debug\netcoreapp3.1\challenge.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\obj\Debug\netcoreapp3.1\challenge.AssemblyInfo.cs
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\obj\Debug\netcoreapp3.1\challenge.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\obj\Debug\netcoreapp3.1\challenge.dll
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\obj\Debug\netcoreapp3.1\challenge.pdb
+C:\Users\andre\Desktop\code\codeFellows\code401\prework\Prework-Code-Challenges\challenge\challenge\obj\Debug\netcoreapp3.1\challenge.genruntimeconfig.cache
