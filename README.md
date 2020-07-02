@@ -3,6 +3,7 @@ This repository contains 4 coding challenges.
 ---
 
 # 1: Array Max Result 
+
 Given an array and target number, return the sum of the target number based on the occurances of that 
 number in the array.
 
@@ -14,6 +15,9 @@ output - 8
 The 5 numbers in the array are created by user input. The user should be asked to enter 5 numbers
 between 1-10.
 
+screenshot of solution:
+
+![solution](imgs/challenge1.jpg)
 
 # 2: Leap Year Calculator
 
@@ -27,6 +31,10 @@ On the Gregorian calendar, a leap year occurs:
 
 Do not worry about edge cases.
 
+screenshot of solution:
+
+![solution](imgs/challenge2.jpg)
+
 # 3: Perfect Sequence
 
 Given an array, return 'Yes' if the sequence is 'perfect'. Otherwise, return 'No'. 
@@ -36,6 +44,10 @@ A perfect sequence is:
 * Non negative numbers
 * The product and sum of all numbers are equal
 
+screenshot of solution:
+
+![solution](imgs/challenge3.jpg)
+
 # 4: Sum of Rows
 
 Given a matrix of numbers, return the sum of each row in a single dimensional array. 
@@ -44,4 +56,8 @@ Example:
 
 input - int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
 output - {15,40,65} 
+
+screenshot of solution:
+
+![solution](imgs/challenge4.jpg)
 
