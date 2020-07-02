@@ -19,6 +19,9 @@ namespace challenge
             //Console.WriteLine(isPerfectSequence(new[] { 4, 5, 6 }));
             //Console.WriteLine(isPerfectSequence(new[] { 0, 2, -2 }));
 
+            // challenge 4 tests
+            //int[,] nums = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
+            //Console.WriteLine(sumOfArrays(nums));            
         }
 
         // challenge 2
@@ -49,6 +52,28 @@ namespace challenge
                 product *= num;
             }
             return sum == product ? "Yes" : "No";
+        }
+
+        // challenge 4
+        public static int[] sumOfArrays(int[,] numArrays)
+        {
+            int rows = numArrays.GetLength(0);
+            int columns = numArrays.GetLength(1);
+            int[] sums = new int[rows];
+
+            for (int i = 0; i < rows; i++)
+            {
+                int sum = 0;
+                for (int k = 0; k < columns; k++)
+                {
+                    sum += numArrays[i, k];
+
+                }
+                sums[i] = sum;
+            }
+            // print out array and return 
+            Console.WriteLine(string.Join(", ", sums));
+            return sums;
         }
     }
 }

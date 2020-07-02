@@ -26,3 +26,12 @@ A perfect sequence is:
 
 * Non negative numbers
 * The product and sum of all numbers are equal
+
+# 4: Sum of Rows
+
+Given a matrix of numbers, return the sum of each row in a single dimensional array. 
+
+Example:
+
+input - int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
+output - {15,40,65} 
